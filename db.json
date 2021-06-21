@@ -1,0 +1,7 @@
+{
+  "drinks": [
+    { "id": 1, "name": "Coke", "price": 3 },
+    { "id": 2, "name": "Sprite", "price": 2},
+    { "id": 3, "name": "Water", "price": 1}
+  ]
+}
